@@ -1,3 +1,51 @@
-h1{
-    color: blue;
+.card{
+
+
+    border: 1px solid black;
+    width: 300px;
+    margin: auto;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: #1d2625 ;
+
+
+}
+.card-image{
+
+    width: 100%;
+    border-radius: 10px;
+
+}
+.card-2{
+
+   padding: 0px 10px;
+
+}
+.card-heading{
+
+    text-align: center;
+    color: #e0a638;
+    border-left: 1px solid #e0a638;
+    border-right: 1px solid #e0a638;
+
+
+}
+.card-text{
+
+    text-align: justify;
+    color: white;
+
+}
+.card-btn{
+
+    border: 1px solid #e0a638;
+    background-color: #e0a638;
+    font-weight: 600;
+    font-size: 15px;
+    border-radius: 5px;
+    display: block;
+    margin: auto;
+    margin-bottom: 10px;
+    width: 100px;
+    height: 30px;
 }
